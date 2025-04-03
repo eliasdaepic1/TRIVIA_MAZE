@@ -1,2 +1,2 @@
-# TRIVIA-MAZE
+# TRIVIA_MAZE
 Installable trivia video game
